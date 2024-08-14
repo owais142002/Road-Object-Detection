@@ -1,0 +1,6 @@
+test: D:\work\personal\Road Object Detection\training\dataset\test/images
+train: D:\work\personal\Road Object Detection\training\dataset\train/images
+val: D:\work\personal\Road Object Detection\training\dataset\valid/images
+
+nc: 8
+names: ['bicycle', 'bus', 'car', 'motorcycle', 'pedestrian', 'pothole', 'sign', 'traffic light']
