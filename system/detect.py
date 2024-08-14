@@ -3,7 +3,7 @@ from tracker import ObjectTracker
 
 def main():
     cap = cv2.VideoCapture('./test.mp4')
-    tracker = ObjectTracker('./detector_model_file/model.pt')
+    tracker = ObjectTracker('./detector_model_file/default.pt')
 
     while True:
         ret, frame = cap.read()
