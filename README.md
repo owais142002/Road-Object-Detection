@@ -1,6 +1,6 @@
-# Road Objects Tracking System with YOLOv8
+# Road Objects Tracking System with YOLOv8 and DeepSORT
 
-This project demonstrates an object-tracking system using YOLOv8 for detection and a Kalman filter for tracking. The system is designed to detect and track objects in a video stream.
+This project showcases an object tracking system that employs YOLOv8 for detection and integrates a Kalman filter for tracking, thereby implementing the DeepSORT algorithm. It is designed to identify and follow objects within a video stream.
 
 ## Table of Contents
 
