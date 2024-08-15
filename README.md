@@ -1,6 +1,6 @@
-# Object Tracking System with YOLOv8
+# Road Objects Tracking System with YOLOv8
 
-This project demonstrates an object tracking system using YOLOv8 for detection and a Kalman filter for tracking. The system is designed to detect and track objects in a video stream.
+This project demonstrates an object-tracking system using YOLOv8 for detection and a Kalman filter for tracking. The system is designed to detect and track objects in a video stream.
 
 ## Table of Contents
 
