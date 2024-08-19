@@ -5,6 +5,7 @@ This project showcases an object tracking system that employs YOLOv8 for detecti
 ## Table of Contents
 
 - [Project Structure](#project-structure)
+- [Project Demo](#project-demo)
 - [Installation](#installation)
 - [Training the Model](#training-the-model)
 - [Custom Training Results](#custom-training-results)
@@ -26,6 +27,13 @@ The project is organized into two main folders:
 - **training**: Contains the Jupyter notebook for training the YOLOv8 model.
   - `train.ipynb`: Jupyter notebook with the code for training the YOLOv8 model.
   - `runs/detect/train9/weights`: Directory where the trained model weights are saved.
+
+## Project Demo
+
+
+https://github.com/user-attachments/assets/28b75fbd-2915-4bde-b23e-5ad19dc6ce17
+
+
 
 ## Installation
 
